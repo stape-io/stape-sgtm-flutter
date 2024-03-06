@@ -103,3 +103,7 @@ If you desire to try the sample app, please follow the next steps:
 ## License
 
 See [LICENSE](LICENSE) for more details.
+
+## Thanks
+
+Special thanks to [Daniel Lucas Silva](https://github.com/daniel-lucas-silva) for his initial work on this repository!
