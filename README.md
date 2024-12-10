@@ -1,4 +1,6 @@
-# Stape sGTM Flutter SDK
+# Deprecated
+
+This repository is no longer maintained or supported. For any inquiries or alternatives, please refer to support@stape.io
 
 ## Overview
 
